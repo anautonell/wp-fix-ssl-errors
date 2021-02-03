@@ -13,12 +13,12 @@
  * @package           wp_fix_ssl_errors
  *
  * @wordpress-plugin
- * Plugin Name:       Fix SSL Errors
- * Plugin URI:        https://github.com/wordpressr/wp-fix-ssl-errors
- * Description:       Fixes the SSL errors by replacing http:// with https://
+ * Plugin Name:       Safer SSL Errors
+ * Plugin URI:        https://github.com/anautonell/wp-fix-ssl-errors
+ * Description:       Fixes the SSL errors in Safer Plugin.
  * Version:           1.0.0
- * Author:            Wordpressr
- * Author URI:        https://github.com/wordpressr
+ * Author:            Boter Technologies
+ * Author URI:        https://github.com/anautonell
  * License:           MIT
  * License URI:       https://opensource.org/licenses/MIT
  * Text Domain:       wp-fix-ssl-errors
